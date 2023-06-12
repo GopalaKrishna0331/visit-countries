@@ -1,0 +1,32 @@
+.list-container-element {
+  margin: 12px;
+}
+
+.image-container {
+  list-style-type: none;
+  padding-left: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.visit-img {
+  height: 200px;
+  width: 320px;
+}
+
+.visit-show {
+  display: flex;
+  justify-content: space-between;
+  background-color: #1f1f2f;
+}
+
+.remove-button {
+  margin-right: 12px;
+  height: 30px;
+  width: 80px;
+  align-self: center;
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  border-radius: 4px;
+  color: #ffffff;
+}
